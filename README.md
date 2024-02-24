@@ -3,7 +3,7 @@ This Repo contains a Chat Room using Flask in Python
 
 Flask Chat Room is a simple web-based chat application built using Flask and Socket.IO.
 
-**Dependencies:**
+## Dependencies
 1.flask
 2.flask_socketio
 3.random
